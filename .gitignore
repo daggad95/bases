@@ -1,3 +1,6 @@
 *.sh
 *.swp
 *.class
+.idea/
+bases.iml
+out/
