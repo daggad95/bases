@@ -1,7 +1,6 @@
 import processing.core.PApplet;
 import bases.GameState;
 
-
 public class Main extends PApplet {
 	private static GameState game;
 
