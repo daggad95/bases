@@ -1,8 +1,8 @@
 import processing.core.PApplet;
 
-public class Test extends PApplet {
+public class Main extends PApplet {
 	public static void main(String args[]) {
-		PApplet.main("Test");
+		PApplet.main("Main");
 	}
 
 	public void setup() {
@@ -11,6 +11,6 @@ public class Test extends PApplet {
 	public void run() {}
 
 	public void settings() {
-		size(300, 300);	
+		size(800, 800);	
 	}
 }
