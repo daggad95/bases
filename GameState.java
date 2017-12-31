@@ -11,7 +11,7 @@ public class GameState {
 	
 	public GameState(int mapSize, LinkedList<Team> teams) {
 		this.mapSize = mapSize;
-		this.teams = team;
+		this.teams = teams;
 
 		map = new MapObject[mapSize][mapSize];
 	}

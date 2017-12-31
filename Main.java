@@ -17,6 +17,6 @@ public class Main extends PApplet {
 
 	public void settings() {
 		size(800, 800);	
-		game = new GameState(40);
+		game = new GameState(40, null);
 	}
 }
